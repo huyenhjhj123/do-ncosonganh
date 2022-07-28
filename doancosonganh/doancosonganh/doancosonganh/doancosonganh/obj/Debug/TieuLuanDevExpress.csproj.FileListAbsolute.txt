@@ -1,0 +1,243 @@
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\TieuLuanDevExpress.exe.config
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\TieuLuanDevExpress.exe
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\TieuLuanDevExpress.pdb
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.Data.v19.2.dll
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.XtraBars.v19.2.dll
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.Data.v19.2.xml
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.XtraBars.v19.2.xml
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\obj\Debug\TieuLuanDevExpress.csprojAssemblyReference.cache
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\obj\Debug\TieuLuanDevExpress.Properties.Resources.resources
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\obj\Debug\TieuLuanDevExpress.csproj.GenerateResource.cache
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\obj\Debug\TieuLuanDevExpress.exe.licenses
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\obj\Debug\TieuLuanDevExpress.csproj.CoreCompileInputs.cache
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\obj\Debug\TieuLuanDevExpress.csproj.CopyComplete
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\obj\Debug\TieuLuanDevExpress.exe
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\obj\Debug\TieuLuanDevExpress.pdb
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.Pdf.v19.2.Drawing.dll
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.XtraPdfViewer.v19.2.dll
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.Pdf.v19.2.Drawing.xml
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.XtraPdfViewer.v19.2.xml
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\de\DevExpress.XtraPdfViewer.v19.2.resources.dll
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\es\DevExpress.XtraPdfViewer.v19.2.resources.dll
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ja\DevExpress.XtraPdfViewer.v19.2.resources.dll
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ru\DevExpress.XtraPdfViewer.v19.2.resources.dll
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\obj\Debug\TieuLuanDevExpress.fLogin.resources
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\obj\Debug\TieuLuanDevExpress.Trangchu.resources
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\obj\Debug\TieuLuanDevExpress.GiaoDien.fTableManager.resources
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\obj\Debug\TieuLuanDevExpress.GiaoDien.fLoginCanhan.resources
+D:\Nam2hk3_2022-2023\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\obj\Debug\TieuLuanDevExpress.GiaoDien.fAdmin.resources
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\TieuLuanDevExpress.exe.config
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\TieuLuanDevExpress.exe
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\TieuLuanDevExpress.pdb
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.BonusSkins.v21.2.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.Data.v21.2.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.Utils.v21.2.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.XtraBars.v21.2.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.XtraPdfViewer.v21.2.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.Data.v21.2.xml
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.Utils.v21.2.xml
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.XtraBars.v21.2.xml
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.XtraPdfViewer.v21.2.xml
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\de\DevExpress.XtraPdfViewer.v21.2.resources.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\es\DevExpress.XtraPdfViewer.v21.2.resources.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ja\DevExpress.XtraPdfViewer.v21.2.resources.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ru\DevExpress.XtraPdfViewer.v21.2.resources.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\obj\Debug\TieuLuanDevExpress.csproj.AssemblyReference.cache
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\obj\Debug\TieuLuanDevExpress.csproj.SuggestedBindingRedirects.cache
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\obj\Debug\TieuLuanDevExpress.GiaoDien.fAdmin.resources
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\obj\Debug\TieuLuanDevExpress.fLogin.resources
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\obj\Debug\TieuLuanDevExpress.GiaoDien.fLoginCanhan.resources
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\obj\Debug\TieuLuanDevExpress.GiaoDien.fTableManager.resources
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\obj\Debug\TieuLuanDevExpress.Trangchu.resources
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\obj\Debug\TieuLuanDevExpress.Properties.Resources.resources
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\obj\Debug\TieuLuanDevExpress.csproj.GenerateResource.cache
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\obj\Debug\TieuLuanDevExpress.exe.licenses
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\obj\Debug\TieuLuanDevExpress.csproj.CoreCompileInputs.cache
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\obj\Debug\TieuLuanDevExpress.csproj.CopyComplete
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\obj\Debug\TieuLuanDevExpress.exe
+D:\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\obj\Debug\TieuLuanDevExpress.pdb
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\TieuLuanDevExpress.exe.config
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\TieuLuanDevExpress.exe
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\TieuLuanDevExpress.pdb
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.BonusSkins.v21.2.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.Data.v21.2.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.Utils.v21.2.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.XtraBars.v21.2.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.XtraPdfViewer.v21.2.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.Data.v21.2.xml
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.Utils.v21.2.xml
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.XtraBars.v21.2.xml
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.XtraPdfViewer.v21.2.xml
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\de\DevExpress.XtraPdfViewer.v21.2.resources.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\es\DevExpress.XtraPdfViewer.v21.2.resources.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ja\DevExpress.XtraPdfViewer.v21.2.resources.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ru\DevExpress.XtraPdfViewer.v21.2.resources.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\obj\Debug\TieuLuanDevExpress.csproj.AssemblyReference.cache
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\obj\Debug\TieuLuanDevExpress.csproj.SuggestedBindingRedirects.cache
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\obj\Debug\TieuLuanDevExpress.GiaoDien.fAdmin.resources
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\obj\Debug\TieuLuanDevExpress.fLogin.resources
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\obj\Debug\TieuLuanDevExpress.GiaoDien.fLoginCanhan.resources
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\obj\Debug\TieuLuanDevExpress.GiaoDien.fTableManager.resources
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\obj\Debug\TieuLuanDevExpress.Trangchu.resources
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\obj\Debug\TieuLuanDevExpress.Properties.Resources.resources
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\obj\Debug\TieuLuanDevExpress.csproj.GenerateResource.cache
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\obj\Debug\TieuLuanDevExpress.exe.licenses
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\obj\Debug\TieuLuanDevExpress.csproj.CoreCompileInputs.cache
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\obj\Debug\TieuLuanDevExpress.csproj.CopyComplete
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\obj\Debug\TieuLuanDevExpress.exe
+D:\do an cuoi ki winfrom\ThucHanhDevexpress\ThucHanhDevexpress\TieuLuanDevExpress\TieuLuanDevExpress\obj\Debug\TieuLuanDevExpress.pdb
